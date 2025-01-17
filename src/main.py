@@ -1,3 +1,4 @@
+# A simple test
 import logging
 import sys
 
