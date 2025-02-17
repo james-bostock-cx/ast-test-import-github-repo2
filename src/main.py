@@ -1,6 +1,8 @@
 import logging
 import sys
 
+# password: S3cr3t
+
 def main(args):
     for arg in args:
         logging.info(arg)
