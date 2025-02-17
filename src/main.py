@@ -1,6 +1,7 @@
 import logging
 import sys
 
+# The following comment causes a low-severity vulnerability to be reported.
 # password: S3cr3t
 
 def main(args):
